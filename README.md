@@ -1,1 +1,1 @@
-# Deploy Link :- https://rental-backend-app.herokuapp.com
+# Deploy Link :- https://euipment-backend.herokuapp.com/products
